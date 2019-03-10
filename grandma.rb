@@ -3,6 +3,7 @@
 def speak_to_grandma(phrase)
   if phrase == ""
     print 
+  end
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
