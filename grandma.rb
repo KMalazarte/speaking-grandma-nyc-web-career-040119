@@ -2,11 +2,11 @@
 
 def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
-    print "I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phrase.upcase
-    print "NO, NOT SINCE 1938"
+    "NO, NOT SINCE 1938"
   else 
-    print "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
@@ -21,3 +21,5 @@ end
 
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
+ 
+ end
